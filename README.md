@@ -14,7 +14,6 @@ The project files are organized as follows:
 - `README.md`: This file, providing an overview of the project.
 - `Primes numbers regression.pdf`: A detailed report of the project, including methodology, results, and future work.
 - `code and data/`:
-  - `prime_analysis.ipynb`: A Jupyter Notebook with step-by-step code and explanations.
   - `prime_analysis.py`: A Python script for generating the dataset and running the analysis.
   - `real_vs_predicted.png`: A visualization of the comparison between real and predicted prime numbers.
   - `residuals.png`: A plot of the residuals (errors) from the model predictions.
